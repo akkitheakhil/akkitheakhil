@@ -1,4 +1,4 @@
-- :metal: Hi, I’m Akhil Padmanabhan
+### :metal: Hi, I’m Akhil Padmanabhan
 - :globe_with_meridians: A Software Engineer from India
 - :heart: I love building web apps with JavaScript
 - :point_right: You can visit my [portfolio](https://akhil-padmanabhan.web.app/) to know more about me
